@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Replication code: Farmers' experience and perception shape adoption and use of precision laser land levelling technology in India"
+authors:
+  - family-names: Surendran-Padmaja
+    given-names: Subash
+    affiliation: "Center for Development Research (ZEF), University of Bonn / ICAR-NIAP"
+    email: s17ssure@uni-bonn.de
+  - family-names: Parlasca
+    given-names: Martin C.
+    affiliation: "Center for Development Research (ZEF), University of Bonn"
+version: 1.0.0
+date-released: 2025-01-01
+license: MIT
+repository-code: "https://github.com/<user>/<repo>"
+preferred-citation:
+  type: article
+  title: "Farmers' experience and perception shape adoption and use of precision laser land levelling technology in India"
+  authors:
+    - family-names: Surendran-Padmaja
+      given-names: Subash
+    - family-names: Parlasca
+      given-names: Martin C.
+  journal: "Q Open"
+  year: 2025

@@ -1,6 +1,6 @@
 # Farmers' experience and perception shape adoption and use of precision laser land levelling technology in India
 
-Replication materials for Surendran-Padmaja, S. & Parlasca, M. C. *Q Open* (forthcoming).
+Replication materials for Surendran-Padmaja, S. & Parlasca, M. C. 
 
 ## Overview
 
@@ -28,7 +28,7 @@ The primary dataset is `LLL Punjab plot data_revised2_paper1_adoption3.dta`, a S
 
 ## Software
 
-- R ≥ 4.2.0
+- R ≥ 4.5.3
 - Required packages (installed automatically by the script if missing): `haven`, `tidyverse`, `ggplot2`, `ggpubr`, `tidyr`, `dplyr`, `reshape2`, `fBasics`, `fastDummies`, `stargazer`, `modelsummary`, `grf`, `ggridges`, `scales`.
 
 ## How to reproduce
@@ -57,7 +57,7 @@ Expected run time: 5–15 minutes on a laptop, depending on hardware. The causal
 
 If you use this code, please cite:
 
-> Surendran-Padmaja, S. and Parlasca, M. C. (2025). Farmers' experience and perception shape adoption and use of precision laser land levelling technology in India. *Q Open*.
+> Surendran-Padmaja, S. and Parlasca, M. C. (2025). Farmers' experience and perception shape adoption and use of precision laser land levelling technology in India. 
 
 ## Contact
 
